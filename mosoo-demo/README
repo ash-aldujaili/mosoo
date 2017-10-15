@@ -1,0 +1,8 @@
+Welcome to a demo of the Multi-Objective Simultaneous Optimistic Optimization algorithm.
+
+- Demo Contents:
+	* MOSOO.p : the algorithm encoded in pcode (it will be released as an open source upon publication)
+	* paretofront.c: a MEX MATLAB code to perform the non-dominated operator efficiently. We have provided the corresponding binaries for several platforms
+	     If for any reason, the binaries are not compatible with your machine, you can recompile with the matlab command:
+		 >> mex paretofront.c
+	*run_MOSOO_Demo : demonstrates and visualizes MO-SOO on the worked example presented in the paper.

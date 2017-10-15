@@ -1,0 +1,3 @@
+%		Statistics result of 
+% Func.	Best	Worst	Median	Mean	Std
+1	0	0	0	0	0
